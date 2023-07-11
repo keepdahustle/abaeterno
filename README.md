@@ -1,2 +1,2 @@
 # abaeterno
-`` Simple Website using HTML &amp; CSS ``
+`` Simple Website using HTML and CSS ``
